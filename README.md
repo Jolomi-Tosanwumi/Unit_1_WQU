@@ -1,4 +1,4 @@
-This repo contains my unit 1 mini-projects in Worldquant University
+This repo contains my unit 1 mini-projects in Worldquant University done January to March 2020
 
 * ip.ipynb is my project on functional programming with python in Worldquant University
 * vc.ipynb is my project on object oriented programming with python in Worldquant University
